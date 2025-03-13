@@ -1,8 +1,7 @@
 export default {
-  singleQuote: true,
-  trailingComma: "all",
-  endOfLine: "lf",
-  overrides: [],
+  endOfLine: 'lf',
   printWidth: 90,
   singleAttributePerLine: true,
+  singleQuote: true,
+  trailingComma: 'all',
 };
